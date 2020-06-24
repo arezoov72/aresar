@@ -15,3 +15,5 @@ class Movieadmin(admin.ModelAdmin):
 admin.site.register(Genre,GenreAdmin) ,
 admin.site.register(movie,Movieadmin)
 
+#this is change test
+
